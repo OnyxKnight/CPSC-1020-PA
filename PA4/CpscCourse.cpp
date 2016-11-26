@@ -1,0 +1,1 @@
+/*Implement the CpscCourse class here*/
