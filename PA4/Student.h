@@ -40,5 +40,4 @@ class Student : public Person
 		void printInfo();
 
 };
-
 #endif

@@ -24,5 +24,4 @@ class Person
 
 		void printInfo();
 };
-
 #endif

@@ -30,5 +30,4 @@ class Faculty : public Person
     void printInfo();
 
 };
-
 #endif
